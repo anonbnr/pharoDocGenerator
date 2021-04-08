@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Documentation",
+	"category" : "Pharo-Documentation-Generator",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SimpleDocumentation",
+	"type" : "normal"
+}

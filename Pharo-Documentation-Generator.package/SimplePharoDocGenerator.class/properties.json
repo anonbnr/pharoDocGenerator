@@ -1,0 +1,13 @@
+{
+	"classtraitcomposition" : "TDocumentPackage classTrait + TDocumentClass classTrait + TDocumentInstanceVariable classTrait + TDocumentInstanceMethod classTrait + TDocumentClassMethod classTrait + TDocumentClassVariable classTrait",
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SimplePharoDocGenerator",
+	"commentStamp" : "",
+	"super" : "PharoDocGenerator",
+	"traitcomposition" : "TDocumentPackage + TDocumentClass + TDocumentInstanceVariable + TDocumentInstanceMethod + TDocumentClassMethod + TDocumentClassVariable",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "Pharo-Documentation-Generator"
+}
