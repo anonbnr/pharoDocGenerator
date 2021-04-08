@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "DocumentationExporter",
+	"category" : "Pharo-Documentation-Generator",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TranscriptDocumentationExporter",
+	"type" : "normal"
+}

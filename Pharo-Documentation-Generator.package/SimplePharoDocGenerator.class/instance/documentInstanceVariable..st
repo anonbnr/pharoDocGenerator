@@ -1,4 +1,7 @@
 documentation
 documentInstanceVariable: anInstanceVariable
 	"Generates a documentation for anInstanceVariable"
-	^ self explicitRequirement
+	|doc|
+	doc := AttributeDocumentation new.
+	doc content: anInstanceVariable name asString.
+	^ doc.
